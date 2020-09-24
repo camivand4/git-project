@@ -1,1 +1,1 @@
-# My first GitHub project
+# My second GitHub project (updated)
